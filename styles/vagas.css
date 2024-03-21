@@ -1,0 +1,24 @@
+.vagas {
+    text-align: center;
+    margin-top: 4em;
+}
+
+.banner__sobrenos {
+    color: var(--red);
+    margin: 2em 0 0 0;
+    font-size: 14px;
+}
+
+.banner__titulo {
+    margin-top: 0;
+    font-size: 48px;
+}
+
+.banner__texto {
+    color: var(--cinza-claro);
+    font-size: 20px
+}
+
+.vagas__img {
+    border-radius: 10px;
+}

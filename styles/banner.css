@@ -6,6 +6,7 @@
 .banner__sobrenos {
     color: var(--red);
     margin: 2em 0 0 0;
+    font-size: 14px;
 }
 
 .banner__titulo {
@@ -16,5 +17,17 @@
 .banner__texto {
     color: var(--cinza-claro);
     font-size: 20px
-    width: ;
+}
+
+.metricas {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px; /* Espaçamento entre a seção banner e a seção métricas */
+}
+
+.metricas__conteudo {
+    flex: 1; /* Distribui o espaço igualmente entre os elementos */
+    text-align: left; /* Alinha o conteúdo à esquerda dentro de cada div */
+    padding: 10px; /* Espaçamento interno */
+    margin-left: 2em; 
 }
