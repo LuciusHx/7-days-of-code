@@ -31,3 +31,17 @@
     margin-left: 1em;
     gap: 1em;
 }
+
+.depoimentos {
+    text-align: center;
+    margin: 10em 0 10em 0;
+}
+
+.depoimentos__subtitulo {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.depoimentos__texto {
+    color: var(--cinza-claro);
+}
