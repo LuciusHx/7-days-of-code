@@ -1,0 +1,23 @@
+.footer {
+    text-align: center;
+}
+
+.titulo {
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.footer__texto {
+    margin: 0 0 3em 0;
+}
+
+.footer__botton {
+    color: var(--white);
+    border: none;
+    padding: 0.8em 1em;
+}
+
+.input__email {
+    padding: 0.5em 1em;
+    border-radius: 8px;
+}
